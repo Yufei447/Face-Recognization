@@ -6,4 +6,5 @@ Due to privacy issues, the training set isn't pusblished. If you'd like to train
 
 ![Alt text](<Screenshot 2023-11-07 at 12.57.26 PM.png>)
 
-The demonstration of the model can be find at Demo.mov
+The demonstration of the model:
+![alt text](Demo.gif)
